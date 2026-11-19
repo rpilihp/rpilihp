@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 CDC (work) + Personal Projects
+- 🔭 CDPH (work) + Personal Projects
 - 📊 Working on health survey analysis using R
 - 🌱 Learning Python
 
